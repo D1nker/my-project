@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Poll\n"
-"POT-Creation-Date: 2016-11-23 15:41+0100\n"
-"PO-Revision-Date: 2016-11-23 15:49+0100\n"
+"POT-Creation-Date: 2016-11-24 17:13+0100\n"
+"PO-Revision-Date: 2016-11-24 17:13+0100\n"
 "Last-Translator: \n"
 "Language-Team: La Quica\n"
 "Language: fr\n"
@@ -148,10 +148,6 @@ msgstr ""
 msgid "Poll"
 msgstr "Sondage"
 
-#: poll.php:132
-msgid "Add a new answer"
-msgstr "Ajouter une nouvelle réponse"
-
 #: poll.php:141
 msgid "Reset Options & Results"
 msgstr "Réinitialiser les options et résultats"
@@ -159,6 +155,13 @@ msgstr "Réinitialiser les options et résultats"
 #: pollwidget.php:13
 msgid "Survey Module"
 msgstr "Module de Sondage"
+
+#: pollwidget.php:39
+msgid "Validate"
+msgstr "Valider"
+
+#~ msgid "Add a new answer"
+#~ msgstr "Ajouter une nouvelle réponse"
 
 #~ msgid "Reset options & results"
 #~ msgstr "Réinitialiser les options et les résultats"

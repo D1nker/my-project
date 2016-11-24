@@ -36,7 +36,7 @@ class Poll_Widget extends WP_Widget
                         <input id="poll_<?php echo $option->id ?>" name="poll_vote" value="<?php echo $option->id ?>" type="radio"/>
                     </p>
                 <?php endforeach; ?>
-                <input type="submit"/>
+                <input type="submit" value="<?php echo __('Validate', 'Poll')?>"/>
             </form>
         <?php else:?>
             <p><?php _e('Résultats :') ?></p>
