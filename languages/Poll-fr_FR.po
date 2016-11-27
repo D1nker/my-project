@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Poll\n"
 "POT-Creation-Date: 2016-11-24 17:13+0100\n"
-"PO-Revision-Date: 2016-11-24 17:13+0100\n"
+"PO-Revision-Date: 2016-11-27 23:29+0100\n"
 "Last-Translator: \n"
 "Language-Team: La Quica\n"
 "Language: fr\n"
@@ -30,11 +30,11 @@ msgstr "Reglages de base"
 
 #: inc/admin/procedural-example.php:25
 msgid "Basic Settings description"
-msgstr ""
+msgstr "Description des réglages de base"
 
 #: inc/admin/procedural-example.php:26
 msgid "Basic"
-msgstr ""
+msgstr "Standard"
 
 #: inc/admin/procedural-example.php:30
 msgid "Advanced Settings"
@@ -55,16 +55,16 @@ msgstr "Autres réglages de description"
 #: inc/admin/procedural-example.php:44 inc/admin/procedural-example.php:118
 #: inc/admin/procedural-example.php:187
 msgid "Text Input"
-msgstr ""
+msgstr "Texte"
 
 #: inc/admin/procedural-example.php:45 inc/admin/procedural-example.php:119
 #: inc/admin/procedural-example.php:188
 msgid "Text input description"
-msgstr ""
+msgstr "Description texte"
 
 #: inc/admin/procedural-example.php:51
 msgid "HTML description"
-msgstr ""
+msgstr "Description HTML"
 
 #: inc/admin/procedural-example.php:56 inc/admin/procedural-example.php:125
 #: inc/admin/procedural-example.php:194
@@ -74,37 +74,37 @@ msgstr ""
 #: inc/admin/procedural-example.php:57 inc/admin/procedural-example.php:126
 #: inc/admin/procedural-example.php:195
 msgid "Textarea description"
-msgstr ""
+msgstr "Zone de texte"
 
 #: inc/admin/procedural-example.php:62 inc/admin/procedural-example.php:63
 #: inc/admin/procedural-example.php:131 inc/admin/procedural-example.php:200
 msgid "Checkbox"
-msgstr ""
+msgstr "Checkbox"
 
 #: inc/admin/procedural-example.php:64 inc/admin/procedural-example.php:132
 #: inc/admin/procedural-example.php:201
 msgid "Checkbox Label"
-msgstr ""
+msgstr "Label checkbox"
 
 #: inc/admin/procedural-example.php:69 inc/admin/procedural-example.php:137
 #: inc/admin/procedural-example.php:206
 msgid "Radio Button"
-msgstr ""
+msgstr "Bouton radio"
 
 #: inc/admin/procedural-example.php:70 inc/admin/procedural-example.php:138
 #: inc/admin/procedural-example.php:207
 msgid "A radio button"
-msgstr ""
+msgstr "Un radio bouton"
 
 #: inc/admin/procedural-example.php:79 inc/admin/procedural-example.php:148
 #: inc/admin/procedural-example.php:216
 msgid "Multile checkbox"
-msgstr ""
+msgstr "Checkbox à choix multiples"
 
 #: inc/admin/procedural-example.php:80 inc/admin/procedural-example.php:149
 #: inc/admin/procedural-example.php:217
 msgid "Multi checkbox description"
-msgstr ""
+msgstr "Description checkbox à choix multiples"
 
 #: inc/admin/procedural-example.php:91 inc/admin/procedural-example.php:161
 #: inc/admin/procedural-example.php:228
@@ -134,7 +134,7 @@ msgstr "Fichier"
 #: inc/admin/procedural-example.php:110 inc/admin/procedural-example.php:179
 #: inc/admin/procedural-example.php:246
 msgid "File description"
-msgstr ""
+msgstr "Description fichier"
 
 #: library/class.settings-api.php:346
 msgid "Browse"
@@ -142,7 +142,7 @@ msgstr ""
 
 #: library/class.settings-api.php:499
 msgid "No section available"
-msgstr ""
+msgstr "Pas de section disponible"
 
 #: poll.php:107 pollwidget.php:13
 msgid "Poll"
