@@ -11,6 +11,13 @@ require_once dirname(__FILE__).'/library/class.settings-api.php';
 require_once dirname(__FILE__).'/inc/admin/procedural-example.php';
 require_once dirname(__FILE__).'/inc/admin/metabox.php';
 
+function traduction() {
+	load_plugin_textdomain( 'Poll', false, dirname( plugin_basename( __FILE__ ) ) . '/languages' );
+}
+
+add_action( 'plugins_loaded', 'traduction' );
+
+
 /**
  * Classe Poll_Plugin
  * Déclare le plugin.
@@ -172,10 +179,3 @@ class Poll_Plugin
 }
 
 new Poll_Plugin();
-
-
-function traduction() {
-	load_plugin_textdomain( 'Poll', false, dirname( plugin_basename( __FILE__ ) ) . '/languages' );
-}
-
-add_action( 'plugins_loaded', 'traduction' );

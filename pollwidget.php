@@ -1,5 +1,6 @@
 <?php
 
+
 /**
  * Classe Poll_Widget.
  */
@@ -39,7 +40,7 @@ class Poll_Widget extends WP_Widget
                 <input type="submit" value="<?php echo __('Validate', 'Poll')?>"/>
             </form>
         <?php else:?>
-            <p><?php _e('Résultats :') ?></p>
+            <p><?php echo __('Results :', 'Poll') ?></p>
             <?php foreach ($options as $option): ?>
                 <p><?php echo $option->label ?> : <?php echo $option->total ?> <?php _e('vote(s)'); ?></p>
             <?php endforeach ?>
