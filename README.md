@@ -16,7 +16,7 @@ This installation is the same as any other WordPress Plugin
 
 #### Installing
 
-Just download the .zip and unzip it in your Wordpress > WP-Content -> Plugin folder
+Just download or clone the .zip and unzip it in your Wordpress > WP-Content -> Plugin folder
 
 Then 3 Easy steps : 
 
