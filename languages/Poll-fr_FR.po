@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Poll\n"
-"POT-Creation-Date: 2016-11-24 17:13+0100\n"
-"PO-Revision-Date: 2016-11-27 23:29+0100\n"
+"POT-Creation-Date: 2016-11-28 10:40+0100\n"
+"PO-Revision-Date: 2016-11-28 10:41+0100\n"
 "Last-Translator: \n"
 "Language-Team: La Quica\n"
 "Language: fr\n"
@@ -13,12 +13,12 @@ msgstr ""
 "X-Poedit-Basepath: ..\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: __\n"
+"X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: inc/admin/metabox.php:6
 msgid "My metabox"
-msgstr ""
+msgstr "Ma metabox"
 
 #: inc/admin/metabox.php:12
 msgid " My field"
@@ -55,12 +55,12 @@ msgstr "Autres réglages de description"
 #: inc/admin/procedural-example.php:44 inc/admin/procedural-example.php:118
 #: inc/admin/procedural-example.php:187
 msgid "Text Input"
-msgstr "Texte"
+msgstr ""
 
 #: inc/admin/procedural-example.php:45 inc/admin/procedural-example.php:119
 #: inc/admin/procedural-example.php:188
 msgid "Text input description"
-msgstr "Description texte"
+msgstr ""
 
 #: inc/admin/procedural-example.php:51
 msgid "HTML description"
@@ -69,12 +69,12 @@ msgstr "Description HTML"
 #: inc/admin/procedural-example.php:56 inc/admin/procedural-example.php:125
 #: inc/admin/procedural-example.php:194
 msgid "Textarea Input"
-msgstr ""
+msgstr "Zone de texte"
 
 #: inc/admin/procedural-example.php:57 inc/admin/procedural-example.php:126
 #: inc/admin/procedural-example.php:195
 msgid "Textarea description"
-msgstr "Zone de texte"
+msgstr "Description Zone de texte"
 
 #: inc/admin/procedural-example.php:62 inc/admin/procedural-example.php:63
 #: inc/admin/procedural-example.php:131 inc/admin/procedural-example.php:200
@@ -84,7 +84,7 @@ msgstr "Checkbox"
 #: inc/admin/procedural-example.php:64 inc/admin/procedural-example.php:132
 #: inc/admin/procedural-example.php:201
 msgid "Checkbox Label"
-msgstr "Label checkbox"
+msgstr "Label Checkbox"
 
 #: inc/admin/procedural-example.php:69 inc/admin/procedural-example.php:137
 #: inc/admin/procedural-example.php:206
@@ -94,7 +94,7 @@ msgstr "Bouton radio"
 #: inc/admin/procedural-example.php:70 inc/admin/procedural-example.php:138
 #: inc/admin/procedural-example.php:207
 msgid "A radio button"
-msgstr "Un radio bouton"
+msgstr "Un bouton radio"
 
 #: inc/admin/procedural-example.php:79 inc/admin/procedural-example.php:148
 #: inc/admin/procedural-example.php:216
@@ -104,7 +104,7 @@ msgstr "Checkbox à choix multiples"
 #: inc/admin/procedural-example.php:80 inc/admin/procedural-example.php:149
 #: inc/admin/procedural-example.php:217
 msgid "Multi checkbox description"
-msgstr "Description checkbox à choix multiples"
+msgstr "Description de checkbox à choix multiples"
 
 #: inc/admin/procedural-example.php:91 inc/admin/procedural-example.php:161
 #: inc/admin/procedural-example.php:228
@@ -134,7 +134,7 @@ msgstr "Fichier"
 #: inc/admin/procedural-example.php:110 inc/admin/procedural-example.php:179
 #: inc/admin/procedural-example.php:246
 msgid "File description"
-msgstr "Description fichier"
+msgstr "Description du fichier"
 
 #: library/class.settings-api.php:346
 msgid "Browse"
@@ -144,24 +144,41 @@ msgstr ""
 msgid "No section available"
 msgstr "Pas de section disponible"
 
-#: poll.php:107 pollwidget.php:13
+#: poll.php:114 pollwidget.php:14
 msgid "Poll"
 msgstr "Sondage"
 
-#: poll.php:141
+#: poll.php:128
+msgid "Question"
+msgstr "Question"
+
+#: poll.php:139
+msgid "Add a new answer"
+msgstr "Ajouter une nouvelle réponse"
+
+#: poll.php:148
 msgid "Reset Options & Results"
 msgstr "Réinitialiser les options et résultats"
 
-#: pollwidget.php:13
+#: pollwidget.php:14
 msgid "Survey Module"
 msgstr "Module de Sondage"
 
-#: pollwidget.php:39
+#: pollwidget.php:40
 msgid "Validate"
 msgstr "Valider"
 
-#~ msgid "Add a new answer"
-#~ msgstr "Ajouter une nouvelle réponse"
+#: pollwidget.php:43
+msgid "Results :"
+msgstr "Résultats :"
+
+#: pollwidget.php:45
+msgid "vote(s)"
+msgstr "vote(s)"
+
+#: pollwidget.php:59
+msgid "Title:"
+msgstr "Titre:"
 
 #~ msgid "Reset options & results"
 #~ msgstr "Réinitialiser les options et les résultats"
