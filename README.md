@@ -17,12 +17,19 @@ This installation is the same as any other WordPress Plugin
 
 Just download the .zip and unzip it in your Wordpress > WP-Content -> Plugin folder
 
-After this, go to Dashboard > Plugins > and just activate the Plugin named "Poll".
+Then 3 Easy steps : 
 
-Then go to Dashboard > Settings > Poll > Choose Question & Answers.
+- Go to Dashboard > Plugins > and just activate the Plugin named "Poll".
 
-Then Dashboard > Appearance > Widgets > And just drag the Poll you made in the Widgets Area 🙂
+Once the Plugin is activated 
 
+- Go to Dashboard > Settings > Poll > Choose Question & Answers.
+
+Once you choosed the Question & Answers
+
+- Go to Dashboard > Appearance > Widgets > And just drag the Poll you made in the Widgets Area 🙂
+
+Then just go to your main page and vote to your new poll :)
 
 ##### Authors
 
