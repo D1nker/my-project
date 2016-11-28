@@ -2,6 +2,7 @@
 
 Hello there, I developed a simple Poll for WordPress.
 
+NOTE : Once you vote, the Plugin automatically create a cookie, making you unable to vote for 1 hour.
 
 ## Getting Started
 
